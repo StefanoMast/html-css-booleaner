@@ -1,3 +1,6 @@
+body {
+    margin: 10px;
+}
 header {
     background-color: aqua;
 
@@ -11,9 +14,28 @@ header {
 .pattern {
     width: 15%;
     height: 15%;
-    background-repeat: repeat-x;
+    background-repeat: repeat;
 }
 
-h1 {
-    font-size: 30px;
+span {
+    display: block;
+}
+
+.evid {
+    background-color: yellow;
+}
+
+.spazio {
+    width: 30%;
+}
+
+.spazio1 {
+    width: 30%;
+}
+.riga {
+    background-color: aqua;
+}
+
+.riga1 {
+    background-color: aquamarine;
 }
