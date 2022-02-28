@@ -3,7 +3,9 @@ body {
 }
 header {
     background-color: aqua;
-
+    margin: 0;
+    padding: 0;
+    border:0;
 }
 
 .logo {
@@ -19,6 +21,29 @@ header {
 
 span {
     display: block;
+}
+
+.title {
+    font-size: 30px;
+    display: block;
+    margin-top: 10px;
+}
+
+div {
+    display: block;
+}
+
+.lightbold {
+    color: grey;
+}
+
+.hypertext {
+    color: rgb(57, 93, 211);
+    display: inline-block;
+}
+
+.tim {
+    margin-top: 15px;
 }
 
 .evid {
